@@ -9,6 +9,6 @@ It maybe takes some time to open it..because the musics and images is very large
 [Click to play the game](http://ri3007b.co.nf/Group2/public_html/)
 
 ### Game Pitch and Screenshots:
-        ![01](http://i1.piimg.com/567571/ea2218f57131579d.png)
-        ![01](http://i1.piimg.com/567571/83d00f0768263d12.png)
-        ![01](http://i1.piimg.com/567571/ce479a0353f16fa0.png)
+        ![01](https://raw.githubusercontent.com/Camixxx/2DGame-JS/master/Shot01.png)
+        ![01](https://raw.githubusercontent.com/Camixxx/2DGame-JS/master/Shot02.png)
+        ![01](https://raw.githubusercontent.com/Camixxx/2DGame-JS/master/Shot03.png)
